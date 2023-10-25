@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--👨🏽‍🎓 My name is Sharujan Sivanandam, I am currently a 3rd year software-eng student enrolled in Ontario Tech University. 
--🌱 I’m currently learning working with datasets and python pandas to parse and manipulate data
--👯 I’m looking to collaborate on any software projects, Python projects preferred
--🤖 I would like to learn more about machine-learning and AI, feel free to reach out for any resources to help!
--👨🏽‍💻 I am open to any 4-8 month co-op/internship positions, contact me through my e-mail for my resume.
--😄 Pronouns: He/Him
--📫 How to reach me: sharujan.sivanandam@ontariotechu.net 
+* 👨🏽‍🎓 My name is Sharujan Sivanandam, I am currently a 3rd year software-eng student enrolled in Ontario Tech University. 
+* 🌱 I’m currently learning working with datasets and python pandas to parse and manipulate data
+* 👯 I’m looking to collaborate on any software projects, Python projects preferred
+* 🤖 I would like to learn more about machine-learning and AI, feel free to reach out for any resources to help!
+* 👨🏽‍💻 I am open to any 4-8 month co-op/internship positions, contact me through my e-mail for my resume.
+* 😄 Pronouns: He/Him
+* 📫 How to reach me: sharujan.sivanandam@ontariotechu.net 
